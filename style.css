@@ -52,6 +52,9 @@ footer {
   background-color: #ccc;
   padding: 10px;
   width: 100%;
+  clear: both;
+  position: relative;
+  margin-top: 50px;
 }
 
 #courseDetails h3 {
